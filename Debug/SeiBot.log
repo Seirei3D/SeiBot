@@ -1,0 +1,2 @@
+﻿  Main.cpp
+c:\users\rb22450\documents\visual studio 2015\projects\seibot\seibot\main.cpp(12): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "unistd.h": No such file or directory
